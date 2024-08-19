@@ -1,0 +1,3 @@
+[submodule "share_services"]
+	path = share_services
+	url = git@github.com:long-zhou-scican/share_services.git
